@@ -18,4 +18,4 @@
 
  FRONT-END: Create a web page show a list of employees. Flex your design skills and front-end experience to make it as complex or presentable as you like.
 
-	Angular application running on localhost:4200. Run cmd 'ng serve' at /src/main/resources/webapp
+> Angular application running on localhost:4200. Run cmd 'ng serve' at /src/main/resources/webapp
